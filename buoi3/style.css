@@ -1,0 +1,78 @@
+
+body
+{
+    margin: 100;
+    padding: 200;
+}
+.container
+{
+    height: 100vh;
+    background-color: white;
+}
+.header
+{
+    height: 10vh;
+    background: crimson;
+    text-align: center;
+    line-height: 10vh;
+    margin-bottom:10px
+}
+.menu
+{
+    height: 5vh;
+    background: chocolate;
+    text-align: center;
+    line-height: 5vh;
+}
+
+.section1
+{
+display:flex;
+}
+.sidebar
+{
+    height: 80vh;
+    background: cyan;
+    text-align: center;
+    line-height: 80vh;
+    width: 30%;
+}
+.article
+{
+    height: 80vh;
+    background: yellow;
+    text-align: center;
+    line-height: 80vh;
+    width: 50%;
+    margin-side:10px
+}
+.footer
+{
+height:13vh;
+text-align:center;
+line-height:13vh;
+background: pink;
+margin-top:10px;
+	
+}
+
+.clear
+{
+    clear: both;
+}
+
+
+.callnow
+{width: 300px;
+height: 300px;
+position:fixed;
+right:0;
+bottom:0
+
+	
+}
+.fas
+{color:red;
+font-size:100px;
+	
+}

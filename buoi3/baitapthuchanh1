@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Bài tập thực hành 1</title>
+	<link rel="stylesheet" href="btth1.css">
+</head>
+<body>
+	<div class="container">
+		<div class="section1">
+			<div class="class">Height 400px</div>
+			<div class="top">Height 200px</div>
+			<div class="bottom">Height 200px</div>
+		</div>
+</div>
+</body>
+</html>
